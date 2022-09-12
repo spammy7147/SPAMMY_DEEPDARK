@@ -1,0 +1,5 @@
+C:\Users\spammy\Desktop\program\SPAMMY_DEEPDARK\CSharp\CSharp\obj\Debug\net5.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\spammy\Desktop\program\SPAMMY_DEEPDARK\CSharp\CSharp\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spammy\Desktop\program\SPAMMY_DEEPDARK\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\spammy\Desktop\program\SPAMMY_DEEPDARK\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
+C:\Users\spammy\Desktop\program\SPAMMY_DEEPDARK\CSharp\CSharp\obj\Debug\net5.0\CSharp.csproj.CoreCompileInputs.cache
